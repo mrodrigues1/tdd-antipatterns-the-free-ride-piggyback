@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TddAntipatterns.TheFreeRidePiggyBack", "TddAntipatterns.TheFreeRidePiggyBack\TddAntipatterns.TheFreeRidePiggyBack.csproj", "{A7592165-2CE9-4A41-99FF-CB2E3B075160}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7592165-2CE9-4A41-99FF-CB2E3B075160}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7592165-2CE9-4A41-99FF-CB2E3B075160}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7592165-2CE9-4A41-99FF-CB2E3B075160}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7592165-2CE9-4A41-99FF-CB2E3B075160}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E2DEC95-6D2B-4E78-9BCD-4972F5FA7C37}
+	EndGlobalSection
+EndGlobal
